@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.30"
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "crypto": "0.0.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.1",
+    "validator": "^8.0.0"
   }
 }
